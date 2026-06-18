@@ -185,7 +185,7 @@ pyaudio
 From the project root, run:
 
 ```bash
-streamlit run app4.py
+streamlit run app.py
 ```
 
 Then open the local Streamlit URL shown in the terminal, usually:
@@ -266,21 +266,9 @@ Use the **Add Knowledge** section in the sidebar:
 
 ## Screenshots
 
-Add screenshots of the application here after running the project.
+<img width="1910" height="958" alt="image" src="https://github.com/user-attachments/assets/6e29ccd5-067f-425b-87f9-189aff774f49" />
+<img width="1912" height="963" alt="image" src="https://github.com/user-attachments/assets/8b122000-d5a4-4c84-b1c0-5d5583fe470f" />
 
-```md
-!\[Home Interface](screenshots/home.png)
-!\[Chat Example](screenshots/chat-example.png)
-!\[Add Knowledge](screenshots/add-knowledge.png)
-```
-
-Recommended folder:
-
-```text
-screenshots/
-```
-
-\---
 
 ## Strengths of the Project
 
@@ -338,7 +326,7 @@ For Streamlit Community Cloud deployment:
 4. Set the main file as:
 
 ```text
-app4.py
+app.py
 ```
 
 5. Deploy from Streamlit Community Cloud.
@@ -347,11 +335,14 @@ app4.py
 
 ## License
 
-This project can be released under the MIT License or any license preferred by the repository owner.
+This project can be released under license preferred by the repository owner.
 
 \---
 
 ## Contact
 
-For questions, improvements, or collaboration, please contact the repository maintainer.
+Nafees Ayub
+Data Scientist
+nafeesayub@gmail.com
++923365901990
 
